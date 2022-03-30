@@ -22,5 +22,3 @@ Total vcore-miliseconds taken by all map tasks=4498.
 Total vcore-miliseconds taken by all reduce tasks=3618.
 Total megabyte-miliseconds taken by all map tasks=4605952.
 Total megabyte-miliseconds taken by all reduce tasks=3704832.
-
-Hadoop map-reduced algorithm execution time is longer than serial algorithm
